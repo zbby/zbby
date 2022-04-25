@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zbby
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m baoyuzhang
+- 👀 I’m interested in python,money,cpa,money,communication,money
+- 🌱 I’m currently learning python \ cpa \international trade
+- 💞️ I’m looking to collaborate on China telecom
+- 📫 How to reach me zbby@hotmail.com
 
 <!---
 zbby/zbby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
